@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299893032803",
+    "project_id": "trecaaplikacija",
+    "storage_bucket": "trecaaplikacija.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299893032803:android:45b3096a4b8656e6033556",
+        "android_client_info": {
+          "package_name": "ba.fsre.trecaaplikacija"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7swA30HSBLkt1YjjgaR35Hlw1UUEcxP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
